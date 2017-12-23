@@ -1,0 +1,10 @@
+.logo-container {
+    position: absolute;
+    top: 10px;
+    font-family: sans-serif;
+    justify-content: center;
+    color: white;
+    width: inherit;
+    display: inline-flex;
+    opacity: .5;
+};
